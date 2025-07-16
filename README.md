@@ -31,4 +31,4 @@ From the results, **Linear Regression** performed best with the lowest error and
 
 1. Clone the repository
 2. Install the dependencies
-3. jupyter notebook Flood_Prediction_Regression.ipynb
+3. jupyter notebook Flood-Probability-Regression.ipynb
